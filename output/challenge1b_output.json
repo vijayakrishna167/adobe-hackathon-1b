@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-27T08:26:27Z"
+    },
+    "extracted_sections": [
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Veggie and Cheese Quesadilla  Ingredients:",
+            "importance_rank": 1,
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Pork Chops with Apples  Ingredients:",
+            "importance_rank": 2,
+            "page_number": 15
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Egg Salad Sandwich  Ingredients:",
+            "importance_rank": 3,
+            "page_number": 5
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Pasta Salad  Ingredients:",
+            "importance_rank": 4,
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Beef and Broccoli  Ingredients:",
+            "importance_rank": 5,
+            "page_number": 7
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Add the bell pepper, zucchini, and red onion. 1 whole wheat tortilla 1/2 cup shredded cheese 1/4 cup bell pepper, sliced 1/4 cup zucchini, sliced 1/4 cup red onion, sliced Instructions: Lay the tortilla flat and sprinkle half of the cheese on one side. Cook in a skillet over medium heat until the cheese is melted and the tortilla is golden brown. Sprinkle the remaining cheese on top and fold the tortilla in half. Slice into wedges.",
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "Serve warm. 4 pork chops 2 apples, sliced 1 small onion, sliced 1/4 cup apple cider 1/4 cup chicken broth 2 tablespoons butter 1 tablespoon olive oil 1 teaspoon thyme Salt and pepper to taste Instructions: Season pork chops with salt and pepper. Cook pork chops until browned on both sides, then set aside. Return pork chops to the skillet and simmer for 10 minutes until cooked through. In the same skillet, melt butter and saut\u00e9 sliced onion and apples until softened.",
+            "page_number": 15
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Spread on one slice of bread and top with the second slice. 4 hard-boiled eggs, chopped 1/4 cup mayonnaise 1 tablespoon Dijon mustard 1 celery stalk, diced Salt and pepper to taste 2 slices whole grain bread Instructions: In a bowl, combine the eggs, mayonnaise, Dijon mustard, and celery. Season with salt and pepper.",
+            "page_number": 5
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "2 cups cooked pasta (such as rotini or penne) 1/2 cup cherry tomatoes, halved 1/2 cup cucumber, diced 1/4 cup black olives, sliced 1/4 cup feta cheese, crumbled 2 tablespoons olive oil 1 tablespoon red wine vinegar Salt and pepper to taste Instructions: In a large bowl, combine the pasta, tomatoes, cucumber, olives, and feta cheese. Season with salt and pepper, then toss to combine.",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "Serve over cooked rice. 1 pound beef sirloin, thinly sliced 2 cups broccoli florets 1 small onion, diced 2 cloves garlic, minced 1/4 cup soy sauce 1/4 cup beef broth 2 tablespoons oyster sauce 1 tablespoon cornstarch 2 tablespoons vegetable oil Cooked rice for serving Instructions: In a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch. Add broccoli florets and stir-fry until tender. Cook sliced beef until browned, then set aside. In the same skillet, saut\u00e9 diced onion and minced garlic until fragrant.",
+            "page_number": 7
+        }
+    ]
+}
